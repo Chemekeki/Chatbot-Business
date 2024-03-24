@@ -1,0 +1,89 @@
+{
+  "intents": [
+    {
+      "name": "greet",
+      "examples": [
+        "Hi",
+        "Hello",
+        "Hey there",
+        "Good morning",
+        "Good evening"
+      ]
+    },
+    {
+      "name": "inform_wholesaler",
+      "examples": [
+        "I am a wholesaler",
+        "Register me as a wholesaler",
+        "I want to register as a wholesaler"
+      ]
+    },
+    {
+      "name": "inform_retailer",
+      "examples": [
+        "I am a retailer",
+        "Register me as a retailer",
+        "I want to register as a retailer"
+      ]
+    },
+    {
+      "name": "goodbye",
+      "examples": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Farewell"
+      ]
+    },
+    {
+      "name": "update_data",
+      "examples": [
+        "Update my data",
+        "Change my information",
+        "Modify my details"
+      ]
+    },
+    {
+      "name": "provide_update_preference",
+      "examples": [
+        "I want to update my preference",
+        "I prefer to update my details",
+        "I would like to change my information"
+      ]
+    },
+    {
+      "name": "buy_product",
+      "examples": [
+        "I want to buy something",
+        "Purchase a product",
+        "Buy item"
+      ]
+    },
+    {
+      "name": "provide_product_category",
+      "examples": [
+        "Electronics",
+        "Clothing",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "provide_product_subcategory",
+      "examples": [
+        "Phones",
+        "Laptops",
+        "Men's Clothing",
+        "Women's Clothing"
+      ]
+    },
+    {
+      "name": "select_product",
+      "examples": [
+        "iPhone",
+        "Macbook",
+        "Shirts",
+        "Dresses"
+      ]
+    }
+  ]
+}
